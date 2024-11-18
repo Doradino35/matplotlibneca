@@ -22,3 +22,8 @@ def read_root():
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 2ba696d (comit)
